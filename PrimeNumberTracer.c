@@ -30,7 +30,7 @@ while(1){
 
    printf("Please enter a number to trace whether it's prime or not(enter 0 to exit): ");
    scanf("%d", &n);
-   if(n==0){
+   if(n==0||1){
              break;
    }
 
